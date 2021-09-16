@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     What Else About Me
                     </h4>
                   <p className="m-0 text-sm">
-                    I like to play Videogames and workout.
+                    I like to play Videogames, binge Netflix, and also interested in anything related to social media - like photography or cinematography. I know alot about cinematograpy and how to make my own videos and I refreshed my knowledge of photography from taking a class in the Spring. 
                     </p>
                 </div>
               </div>

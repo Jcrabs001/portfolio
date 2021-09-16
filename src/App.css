@@ -1,0 +1,47 @@
+* {
+    /* background-color: #2f6 !important;  */
+    /* color: #000 !important; */
+} 
+
+h1 {
+    /* color: rgb(114, 121, 118) !important; */
+}
+
+.text-color-primary {
+    /* color: brown !important; */
+}
+
+span {
+    /* color: chartreuse !important; */
+}
+
+a.button-dark{
+    /* background-color: #639 !important; */
+
+}
+
+a svg path {
+    /* fill: rgb(255, 255, 255); */
+
+}
+
+.easter-egg {
+    color: #0f0;
+}
+
+.easter-egg-avocado{
+    width: 80rem; 
+    height: 100vh;
+}
+
+#penguin{
+    background-color: #ff08
+
+}
+
+.img-lion-fish{
+    height: 400px;
+    width: auto;
+
+    background-image: url('/portfolio/images/lionfish.jpg');
+}
