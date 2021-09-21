@@ -26,7 +26,7 @@ a svg path {
 }
 
 .easter-egg {
-    color: #0f0;
+    color: rgb(0, 0, 0);
 }
 
 .easter-egg-avocado{
@@ -35,12 +35,12 @@ a svg path {
 }
 
 #penguin{
-    background-color: #ff08
+    background-color: rgba(0, 0, 0, 0.533)
 
 }
 
 .img-lion-fish{
-    height: 400px;
+    height: 600px;
     width: auto;
 
     background-image: url('/portfolio/images/lionfish.jpg');

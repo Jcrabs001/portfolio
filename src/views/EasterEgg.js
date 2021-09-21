@@ -9,12 +9,14 @@ const EasterEgg = () => {
                     {/* Home */}
                 {/* </Link> */}
             </div>
-            Please show me on the website
+            JESUS CHRIST ITS
             <div class="inner-avocado" id="penguin">
-                Avocado
+                JASON BOURNE
 
             </div>
-            <div class= "img-lion-fish"></div>
+            <div class= "img-lion-fish">
+
+            </div>
         </div>
     );
         
