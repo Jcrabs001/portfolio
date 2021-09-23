@@ -15,6 +15,9 @@ const EasterEgg = () => {
 
             </div>
             <div class= "img-lion-fish">
+                <oaktree>
+                    if you're reading this it's already too late 
+                </oaktree>
 
             </div>
         </div>
