@@ -45,3 +45,50 @@ a svg path {
 
     background-image: url('/portfolio/images/lionfish.jpg');
 }
+
+.banner {
+    position: relative;
+    height: 33.33vh;
+    font-size: 32px;
+    color: #fff;
+    font-weight: 900;
+    text-align: center;
+
+    background-color: #00f;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    background-color: #00f;
+
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main-content div {
+    /* flex: 1 1 25%; */
+    /* width: 33vw; */
+    height: 4rem;
+    margin: 1rem 0;
+
+    background-color: #000;
+    background-image: url('/portfolio/images/Baseballfield.jpg');
+    border-radius: 3rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img-Baseballfield{
+    height: 600px;
+    width: auto;
+
+    background-image: url('/portfolio/images/Baseballfield.jpg');
+}
